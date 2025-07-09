@@ -1,0 +1,18 @@
+                              precision    recall  f1-score   support
+
+                 bladderwort       0.86      0.86      0.86       444
+   canadian_waterweed_images       0.51      0.63      0.57       208
+      carolina_fanwortimages       0.67      0.58      0.62       122
+             coontail_images       0.87      0.63      0.73       867
+  curly_leaf_pondweed_images       0.64      0.92      0.75       741
+       eurasian_watermilfoil       0.64      0.69      0.66       548
+     european_frogbit_images       0.93      0.86      0.89       215
+                    hydrilla       0.56      0.43      0.48       272
+        parrotfeather_images       0.94      0.97      0.96      1186
+    richards_pondweed_images       0.78      0.51      0.61       243
+siberian_watermilfoil_images       0.41      0.29      0.34       195
+     starry_stonewort_images       0.64      0.75      0.69        77
+
+                    accuracy                           0.76      5118
+                   macro avg       0.70      0.68      0.68      5118
+                weighted avg       0.77      0.76      0.75      5118
