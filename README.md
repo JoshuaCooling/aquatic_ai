@@ -14,8 +14,8 @@ This project provides a graphical interface for classifying aquatic plants (incl
 
 - `EfficientNet`
 - `DenseNet121`
-- `Swin Transformer`
-- `ImageNet ViT (Vision Transformer)`
+- `Swin Transformer` (.pth too large for GitHub)
+- `ImageNet ViT (Vision Transformer)` (.pth too large for GitHub)
 
 All models are trained on 12 aquatic plant species:
 
@@ -46,7 +46,7 @@ All models are trained on 12 aquatic plant species:
 - `pandas`
 - `openpyxl`
 - `timm`
-- `tkinter` (usually comes with Python)
+- `tkinter`
 
 Install dependencies using pip:
 
