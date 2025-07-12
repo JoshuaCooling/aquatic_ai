@@ -59,8 +59,8 @@ pip install torch torchvision opencv-python pillow pandas openpyxl timm
 1. Clone the repo or download the script:
 
 ```bash
-git clone https://github.com/yourusername/aquatic-species-classifier.git
-cd aquatic-species-classifier
+git clone https://github.com/JoshuaCooling/aquatic_ai.git
+cd aquatic_ai
 ```
 
 2. Place your model files in the same directory:
